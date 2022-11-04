@@ -1,0 +1,256 @@
+ASCII;tecla
+caracter nulo;0
+comienzo de cabecera;1
+comienzo de texto;2
+fin de texto;3
+fin de transmision;4
+petición;5
+reconocimiento;6
+timbre;7
+retroceso;8
+tabulador horizontal;9
+salto de línea;10
+tabulador vertical;11
+salto de pagina;12
+retorno de carro;13
+desplazamiento a teclado ideografico;14
+desplazamiento a teclado estandar;15
+escape de enlace de datos;16
+control de dispositivo 1;17
+control de dispositivo 2;18
+control de dispositivo 3;19
+control de dispositivo 4;20
+reconocimiento negativo;21
+espera síncrona;22
+fin de bloque de transmision;23
+cancelar;24
+fina de soporte de almacenamiento;25
+substitución;26
+escape;27
+separador de fichero;28
+separador de grupo;29
+separador de registro;30
+separador de unidad;31
+Space;32
+!;33
+"""";34
+#;35
+$;36
+%;37
+&;38
+';39
+(;40
+);41
+*;42
++;43
+,;44
+-;45
+.;46
+/;47
+0;48
+1;49
+2;50
+3;51
+4;52
+5;53
+6;54
+7;55
+8;56
+9;57
+:;58
+";";59
+<;60
+=;61
+>;62
+?;63
+@;64
+A;65
+B;66
+C;67
+D;68
+E;69
+F;70
+G;71
+H;72
+I;73
+J;74
+K;75
+L;76
+M;77
+N;78
+O;79
+P;80
+Q;81
+R;82
+S;83
+T;84
+U;85
+V;86
+W;87
+X;88
+Y;89
+Z;90
+[;91
+\;92
+];93
+^;94
+_;95
+`;96
+a;97
+b;98
+c;99
+d;100
+e;101
+f;102
+g;103
+h;104
+i;105
+j;106
+k;107
+l;108
+m;109
+n;110
+o;111
+p;112
+q;113
+r;114
+s;115
+t;116
+u;117
+v;118
+w;119
+x;120
+y;121
+z;122
+{;123
+|;124
+};125
+~;126
+DEL;127
+Ç;128
+ü;129
+é;130
+â;131
+ä;132
+à;133
+å;134
+ç;135
+ê;136
+ë;137
+è;138
+ï;139
+î;140
+ì;141
+Ä;142
+Å;143
+É;144
+æ;145
+Æ;146
+ô;147
+ö;148
+ò;149
+û;150
+ù;151
+ÿ;152
+Ö;153
+Ü;154
+Centavo;155
+Libra;156
+Yen;157
+Peseta;158
+Funcion;159
+á;160
+í;161
+ó;162
+ú;163
+ñ;164
+Ñ;165
+ª;166
+º;167
+¿;168
+?;169
+¬;170
+½;171
+¼;172
+¡;173
+«;174
+»;175
+?;176
+?;177
+?;178
+?;179
+?;180
+?;181
+?;182
+?;183
+?;184
+?;185
+?;186
+?;187
+?;188
+?;189
+?;190
+?;191
+?;192
+?;193
+?;194
+?;195
+?;196
+?;197
+?;198
+?;199
+?;200
+?;201
+?;202
+?;203
+?;204
+?;205
+?;206
+?;207
+?;208
+?;209
+?;210
+?;211
+?;212
+?;213
+?;214
+?;215
+?;216
+?;217
+?;218
+?;219
+?;220
+?;221
+?;222
+?;223
+Alfa;224
+Beta;225
+Gamma;226
+Pi;227
+Sumatorio;228
+Sigma;229
+Mu;230
+Tau;231
+Phi;232
+Theta;233
+Omega;234
+Delta;235
+Infinito;236
+Phi minuscula;237
+Epsilon;238
+?;239
+?;240
+Mas menos;241
+Mayor o igual;242
+Menor o igual;243
+?;244
+?;245
+º;246
+Aproximadamente igual;247
+°;248
+?;249
+·;250
+Radical;251
+A la enésima;252
+Al cuadrado;253
+?;254
